@@ -1,0 +1,1 @@
+C:\Users\Hp\Documents\WDB\wdb\bin\Release\net8.0\win-x64\publish\wdb.exe

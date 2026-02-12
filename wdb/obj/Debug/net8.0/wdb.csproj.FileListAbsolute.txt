@@ -1,0 +1,14 @@
+C:\Users\Hp\Documents\WDB\wdb\bin\Debug\net8.0\wdb.exe
+C:\Users\Hp\Documents\WDB\wdb\bin\Debug\net8.0\wdb.deps.json
+C:\Users\Hp\Documents\WDB\wdb\bin\Debug\net8.0\wdb.runtimeconfig.json
+C:\Users\Hp\Documents\WDB\wdb\bin\Debug\net8.0\wdb.dll
+C:\Users\Hp\Documents\WDB\wdb\bin\Debug\net8.0\wdb.pdb
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\wdb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\wdb.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\wdb.AssemblyInfo.cs
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\wdb.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\wdb.dll
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\refint\wdb.dll
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\wdb.pdb
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\wdb.genruntimeconfig.cache
+C:\Users\Hp\Documents\WDB\wdb\obj\Debug\net8.0\ref\wdb.dll
